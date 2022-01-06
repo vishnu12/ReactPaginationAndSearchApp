@@ -42,5 +42,9 @@ export const data=[
     {
         name:'Jinsy',
         age:28
+    },
+    {
+        name:'Gloria',
+        age:32
     }
 ]

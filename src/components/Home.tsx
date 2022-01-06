@@ -11,7 +11,7 @@ export const Home = () => {
           <Row>
           {info.map((itm,ind)=>{
                return(
-                   <Col md={3} sm={12} key={ind}>
+                   <Col md={4} sm={12} key={ind}>
                     <CardCom name={itm.name} age={itm.age} />
                    </Col>
                )
